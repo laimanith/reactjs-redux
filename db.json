@@ -1,0 +1,95 @@
+{
+	"users": [
+		{
+			"id": 1,
+			"name": "Freak",
+			"age": 20,
+			"description": "I am 20 a programmer.",
+			"phoneNumber": "0973456522"
+		},
+		{
+			"id": 2,
+			"name": "Dev",
+			"age": 20,
+			"description": "I am 20 a programmer.",
+			"phoneNumber": "0885536636"
+		},
+		{
+			"id": 3,
+			"name": "Kane",
+			"age": 1,
+			"description": "I am a good kid.",
+			"phoneNumber": "070220618"
+		},
+		{
+			"id": 4,
+			"name": "Messi",
+			"age": 1,
+			"description": "I am a good kid.",
+			"phoneNumber": "070220618"
+		},
+		{
+			"id": 5,
+			"name": "Ronaldo",
+			"age": 1,
+			"description": "I am a good kid.",
+			"phoneNumber": "070220618"
+		},
+		{
+			"id": 6,
+			"name": "Neymar",
+			"age": 1,
+			"description": "I am a good kid.",
+			"phoneNumber": "070220618"
+		},
+		{
+			"id": 7,
+			"name": "Rakitic",
+			"age": 1,
+			"description": "I am a good kid.",
+			"phoneNumber": "070220618"
+		},
+		{
+			"id": 8,
+			"name": "Dejong",
+			"age": 1,
+			"description": "I am a good kid.",
+			"phoneNumber": "070220618"
+		},
+		{
+			"id": 9,
+			"name": "Stegen",
+			"age": 1,
+			"description": "I am a good kid.",
+			"phoneNumber": "070220618"
+		},
+		{
+			"id": 10,
+			"name": "Vidal",
+			"age": 1,
+			"description": "I am a good kid.",
+			"phoneNumber": "070220618"
+		},
+		{
+			"id": 11,
+			"name": "Dembele",
+			"age": 1,
+			"description": "I am a good kid.",
+			"phoneNumber": "070220618"
+		},
+		{
+			"id": 12,
+			"name": "Suarez",
+			"age": 1,
+			"description": "I am a good kid.",
+			"phoneNumber": "070220618"
+		},
+		{
+			"id": 13,
+			"name": "Lenglet",
+			"age": 1,
+			"description": "I am a good kid.",
+			"phoneNumber": "070220618"
+		}
+	]
+}
